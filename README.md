@@ -26,13 +26,14 @@
 
 Here's a quick overview of my technical toolkit:
 
-
+<pre><code class="language-python">
 def my_tech_stack():
     languages = ["Python", "JavaScript", "C#"]
     web = ["React", "Node.js", "HTML5/CSS3"]
     cloud = ["AWS", "Azure", "Firebase"]
     tools = ["Docker", "GitHub Actions", "VS Code"]
     return {"I_build_with": [languages, web, cloud, tools]}
+</code></pre>
 
 
 
