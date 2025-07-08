@@ -61,9 +61,6 @@ def my_tech_stack():
 
 </div>
 
-Loading pronouns.exe...
-[====================] 100% Complete!
-
 ## 📫 Let's Connect
 
 <div align="center">
