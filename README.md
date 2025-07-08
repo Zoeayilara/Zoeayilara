@@ -24,13 +24,16 @@
 
 ## 🛠️ Tech Stack
 
-python
+## 🛠️ Tech Stack
+
+```python
 def my_tech_stack():
     languages = ["Python", "JavaScript", "C#"]
     web = ["React", "Node.js", "HTML5/CSS3"]
     cloud = ["AWS", "Azure", "Firebase"]
     tools = ["Docker", "GitHub Actions", "VS Code"]
     return {"I_build_with": [languages, web, cloud, tools]}
+
 <div align="center">
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -40,7 +43,7 @@ https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&l
 https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 
-</div> 
+</div> ```
 
 ## 📊 GitHub Stats
 
