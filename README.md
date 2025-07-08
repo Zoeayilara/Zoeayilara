@@ -1,3 +1,22 @@
+# ⚡ Zoeayilara's Digital Universe ⚡
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22F7B7&center=true&vCenter=true&width=500&lines=Hello+World!;Full-Stack+Alchemist;Open+Source+Enthusiast;Problem+Solving+Wizard" alt="Animated Typing" />
+</div>
+
+---
+
+## 🚀 Code Odyssey
+
+<pre><code class="language-python">
+while True:
+    explore_new_tech()
+    build_cool_stuff()
+    if bugs_found:
+        debug_with_coffee()
+</code></pre>
+
+
 # Hi there, I'm Zoeayilara 👋 
 ### 💻 Software Developer | 🌍 Open Source Enthusiast | 🚀 Building Impactful Solutions
 
@@ -20,6 +39,25 @@
 </div>
 
 ---
+
+🛠️ Tech Arsenal
+<div align="center">
+"I speak in 1s and 0s"
+
+python
+def tech_stack():
+    return {
+        'languages': ['Python', 'JavaScript', 'C#'],
+        'web': ['React', 'Node.js', 'HTML5/CSS3'],
+        'cloud': ['AWS', 'Azure', 'Firebase'],
+        'tools': ['Docker', 'GitHub Actions', 'VS Code']
+    }
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+
+</div>
 
 
 ## 🛠️ Tech Stack
@@ -51,6 +89,14 @@ def my_tech_stack():
 
 </div>
 
+📊 GitHub Warp Drive
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=Zoeayilara&show_icons=true&theme=radical&hide_border=true
+https://streak-stats.demolab.com/?user=Zoeayilara&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=Zoeayilara&layout=compact&theme=radical&hide_border=true
+
+</div>
+
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -60,6 +106,26 @@ def my_tech_stack():
 ![Serverless](https://img.shields.io/badge/Serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
 
 </div>
+
+🌌 When I'm Not Coding...
+<div align="center">
+🎧 Debugging Playlists	🍕 Pizza Hunt	📚 Currently Reading
+Lo-Fi Coding Beats	Searching for perfect cheese pull	"Clean Code" by Uncle Bob
+Epic Coding Soundtracks	Chicago vs. New York debate	"Designing Data-Intensive Apps"
+</div>
+💬 Dev Wisdom
+"First solve the problem, then write the code." - John Johnson
+"The best error message is the one that never shows up." - Thomas Fuchs
+"Why do programmers prefer dark mode? Because light attracts bugs!" - Internet Wisdom
+
+<div align="center">
+https://img.shields.io/badge/Let's%2520Connect-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Follow%2520Me-%25231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/Shoot%2520Me%2520a%2520Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+https://komarev.com/ghpvc/?username=Zoeayilara&label=Profile%2520Views&color=0e75b6&style=flat
+
+</div> ```
 
 ## 📫 Let's Connect
 
