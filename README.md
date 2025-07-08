@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Stack
 
-```python
+python
 def my_tech_stack():
     languages = ["Python", "JavaScript", "C#"]
     web = ["React", "Node.js", "HTML5/CSS3"]
@@ -43,7 +43,7 @@ https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&l
 https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 
-</div> ```
+</div> 
 
 ## 📊 GitHub Stats
 
