@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-```python
+python
 def my_tech_stack():
     languages = ["Python", "JavaScript", "C#"]
     web = ["React", "Node.js", "HTML5/CSS3"]
