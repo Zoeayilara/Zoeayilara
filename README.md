@@ -62,7 +62,7 @@ https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoCol
 https://img.shields.io/badge/Portfolio-%2523000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
 
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Zoeayilara&label=Profile%20views&color=0e75b6&style=flat" alt="Zoeayilara" /> </p> ```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Zoeayilara&label=Profile%20views&color=0e75b6&style=flat" alt="Zoeayilara" /> </p> 
 <!---
 Zoeayilara/Zoeayilara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
