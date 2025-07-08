@@ -1,4 +1,5 @@
 # Hi there, I'm Zoeayilara 👋
+💻 **Software Developer** | 🌍 **Open Source Enthusiast** | 🚀 **Building Impactful Solutions**
 
 ## 👩‍💻 About Me
 I am a passionate software developer with a strong interest in open source, collaboration, and building impactful solutions. I enjoy working across the stack and am always eager to learn new technologies. My philosophy: write clean code, share knowledge, and contribute to the community.
